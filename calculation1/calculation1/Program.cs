@@ -11,8 +11,8 @@ namespace calculation1
         static void Main(string[] args)
         {
             Console.WriteLine("test 1");
-            Console.WriteLine("test 1");
-            Console.WriteLine("test 1");
+            Console.WriteLine("test 2");
+            Console.WriteLine("test 3");
             Console.ReadLine();
         }
     }
