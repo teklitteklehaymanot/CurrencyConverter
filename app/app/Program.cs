@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace calculation1
+namespace app
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test 1");
-            Console.WriteLine("test 2");
-            Console.ReadLine();
         }
     }
 }
