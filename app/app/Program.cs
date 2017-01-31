@@ -12,6 +12,8 @@ namespace app
         {
             Console.WriteLine("enter key");
             Console.ReadKey();
+            Console.WriteLine("enter key");
+            Console.ReadKey();
         }
     }
 }
