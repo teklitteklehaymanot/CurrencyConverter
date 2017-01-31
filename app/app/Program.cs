@@ -10,10 +10,6 @@ namespace app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter key");
-            Console.ReadKey();
-            Console.WriteLine("enter key");
-            Console.ReadKey();
         }
     }
 }
