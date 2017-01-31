@@ -1,1 +1,6 @@
 C:\Users\TITI\Documents\New folder\calculation1\calculation1\bin\Debug\calculation1.exe.config
+C:\Users\TITI\Documents\New folder\calculation1\calculation1\bin\Debug\calculation1.exe
+C:\Users\TITI\Documents\New folder\calculation1\calculation1\bin\Debug\calculation1.pdb
+C:\Users\TITI\Documents\New folder\calculation1\calculation1\obj\Debug\calculation1.csprojResolveAssemblyReference.cache
+C:\Users\TITI\Documents\New folder\calculation1\calculation1\obj\Debug\calculation1.exe
+C:\Users\TITI\Documents\New folder\calculation1\calculation1\obj\Debug\calculation1.pdb
