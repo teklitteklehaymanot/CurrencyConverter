@@ -83,7 +83,7 @@ namespace SimpleCalculator
                     result = firstNumber % secondNumber;
                     break;
             }
-            Console.WriteLine("\nResult of " + firstNumber + " " + stringOperation + " " + secondNumber + " = " + result + ".");
+            Console.WriteLine("\nResult of = " + firstNumber + " " + stringOperation + " " + secondNumber + " = " + result + ".");
             Console.ReadKey();
         }
     }
