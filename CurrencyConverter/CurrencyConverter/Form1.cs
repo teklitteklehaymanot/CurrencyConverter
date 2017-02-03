@@ -55,7 +55,7 @@ namespace Currency_convert
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Easy Currency Converter" + "\nVersion 1.0.1" + "\nDeveloped By Abhi", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Easy Currency Converter" + "\nVersion 1.0.0" + "\nDeveloped By tek", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void button1_Click(object sender, EventArgs e)
