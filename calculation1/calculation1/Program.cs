@@ -31,19 +31,19 @@ namespace SimpleCalculator
             string stringOperation = Console.ReadLine();
 
             // Convert string choice to integral
-            if (stringOperation == "+" || stringOperation == "addition")
+            if (stringOperation == "+" || stringOperation == "add")
             {
                 operation = 1;
             }
-            else if (stringOperation == "-" || stringOperation == "soustraction")
+            else if (stringOperation == "-" || stringOperation == "sub")
             {
                 operation = 2;
             }
-            else if (stringOperation == "*" || stringOperation == "multiplication")
+            else if (stringOperation == "*" || stringOperation == "multi")
             {
                 operation = 3;
             }
-            else if (stringOperation == "/" || stringOperation == "division")
+            else if (stringOperation == "/" || stringOperation == "div")
             {
                 operation = 4;
             }
@@ -83,8 +83,9 @@ namespace SimpleCalculator
                     result = firstNumber % secondNumber;
                     break;
             }
-            Console.WriteLine("\nResult of = " + firstNumber + " " + stringOperation + " " + secondNumber + " = " + result + ".");
+            Console.WriteLine("\n The Result is =  " + firstNumber + " " + stringOperation + " " + secondNumber + " = " + result + ".");
             Console.ReadKey();
+            
         }
     }
 }
